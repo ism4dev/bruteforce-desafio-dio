@@ -91,7 +91,7 @@ WARNING: Invalid method: FAIL=Login failed.
 ```
 Depois de conseguir logar no formulário com sucesso, usando as primeiras credenciais, fui para a última tarefa:
 ```console
-enum4linux -a 192.168.0.104   
+$ enum4linux -a 192.168.0.104   
 Starting enum4linux v0.9.1 ( http://labs.portcullis.co.uk/application/enum4linux/ ) on Wed Oct 15 14:40:25 2025
 
  =========================================( Target Information )=========================================                                                                                 
